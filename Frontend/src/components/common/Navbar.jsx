@@ -34,7 +34,7 @@ const Navbar = () => {
           >
             <img src={logo} alt="logo" width="150px" height="20px" className="hidden md:block" />
             <p className="md:text-2xl sm:text-xl text-white font-Roberto font-bold">
-              RescueConnect
+              Rescue Connect
             </p>
           </Link>
         </div>

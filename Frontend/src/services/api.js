@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8008/api/n1";
+const BASE_URL = "https://rescue-connect.vercel.app/api/n1";
 
 // AGENCY END POINTS
 export const agencyEndPoints = {
